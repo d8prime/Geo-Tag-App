@@ -1,0 +1,12 @@
+frontend/node_modules/
+frontend/build/
+
+geo_image_app/backend/backend/__pycache__/
+geo_image_app/backend/images/__pycache__/
+geo_image_app/backend/images/migrations/
+geo_image_app/backend/db.sqlite3
+geo_image_app/backend/media/
+geo_image_app/backend/staticfiles/
+geo_image_app/venv/
+
+.env
