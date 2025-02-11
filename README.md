@@ -11,7 +11,7 @@ A simple web app that lets you capture images and embed geolocation data. Built 
 
 ### Stop Capturing  
 - When you hit "Stop," all stored images are sent to the Django backend.
-- The captured images are displayed in a gallery view with a download. 
+- The captured images are displayed in a gallery view with a download link. 
 
 ### Backend Stores Images  
 - The backend only receives images and saves them with the geolocation data included.  
